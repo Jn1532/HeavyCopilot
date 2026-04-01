@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="HeavyCopilot.Api/HeavyCopilot.Api.csproj" />
+  <Project Path="HeavyCopilot.Ui/HeavyCopilot.Ui.esproj" />
+</Solution>

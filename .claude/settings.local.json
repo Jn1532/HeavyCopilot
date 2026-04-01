@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dotnet build:*)",
+      "Bash(cd /tmp)",
+      "Bash(cp '/c/ProgramData/Microsoft/VisualStudio/Packages/Microsoft.VisualStudio.JavaScript.SDK_1.0.4902498,version=1.0.4902498/Microsoft.VisualStudio.JavaScript.Sdk.1.0.4902498.nupkg' ./sdk.zip)",
+      "Bash(unzip -o sdk.zip -d ./jssdk)",
+      "Bash(cp:*)",
+      "Bash(wc:*)"
+    ]
+  }
+}
