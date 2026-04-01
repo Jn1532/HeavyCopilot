@@ -1,6 +1,6 @@
 # HeavyCopilot
 
-An AI-powered construction job assistant built for HCSS HeavyJob workflows. Ask natural language questions about job budgets, production, and variances — and get streamed answers backed by real construction data.
+An AI-powered construction job assistant built for   HeavyJob workflows. Ask natural language questions about job budgets, production, and variances — and get streamed answers backed by real construction data.
 
 ![Demo](https://img.shields.io/badge/status-Phase%201%20Complete-brightgreen)
 
@@ -10,7 +10,7 @@ An AI-powered construction job assistant built for HCSS HeavyJob workflows. Ask 
 - Ask "What's the production on JH-2025-001?" and get crew/equipment details
 - Streaming responses (SSE) so answers appear token-by-token
 - Conversation history — context is preserved across messages in the same session
-- Slide-out chat panel styled after HCSS Chats
+- Slide-out chat panel styled after   Chats
 
 ## Tech stack
 
